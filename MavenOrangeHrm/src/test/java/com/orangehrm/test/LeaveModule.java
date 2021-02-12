@@ -10,4 +10,8 @@ public class LeaveModule extends BaseClass{
 public void testCofigureLeaves() {
 	Reporter.log("CofigureLeaves",true);
 }
+@Test
+public void testCofigureLeaves2() {
+	Reporter.log("CofigureLeaves2",true);
+}
 }
